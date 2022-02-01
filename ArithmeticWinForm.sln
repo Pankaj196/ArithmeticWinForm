@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticWinForm", "ArithmeticWinForm\ArithmeticWinForm.csproj", "{F24C9DC3-46CA-4845-BE38-B84640DD9E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithClass", "ArithClass\ArithClass.csproj", "{4789DF42-35AB-41D5-9575-70C210C1353F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24C9DC3-46CA-4845-BE38-B84640DD9E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24C9DC3-46CA-4845-BE38-B84640DD9E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24C9DC3-46CA-4845-BE38-B84640DD9E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24C9DC3-46CA-4845-BE38-B84640DD9E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4789DF42-35AB-41D5-9575-70C210C1353F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4789DF42-35AB-41D5-9575-70C210C1353F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4789DF42-35AB-41D5-9575-70C210C1353F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4789DF42-35AB-41D5-9575-70C210C1353F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6EE32F-D541-4445-9051-31430D787437}
+	EndGlobalSection
+EndGlobal
